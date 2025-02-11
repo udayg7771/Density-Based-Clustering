@@ -1,6 +1,7 @@
 # Density-Based-Clustering
 DBSCAN (Density-Based Spatial Clustering of Applications with Noise) is an unsupervised clustering algorithm that groups points based on density and identifies outliers as noise. It does not require the number of clusters to be predefined, making it useful for discovering arbitrary-shaped clusters in datasets.
 Steps of the DBSCAN Algorithm
+
 Step 1: Compute the Dissimilarity Matrix
 Step 2: Define Parameters (eps and minPts)
 Step 3: Identify Core Points
