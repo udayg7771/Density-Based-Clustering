@@ -12,7 +12,7 @@ Step 4: Form Clusters
 
 Step 5: Identify Noise Points.
 
-Key Applications of DBSCAN
+# Key Applications of DBSCAN :
 
 1)Geospatial Data Analysis (GIS & Earth Science)
 
